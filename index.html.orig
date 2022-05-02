@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><b>Olá, Mundo do Vs Code!</b></h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo, accusamus unde hic, 
+        quasi sapiente neque natus voluptatum reiciendis, quas debitis eaque error exercitationem 
+        distinctio consectetur sequi voluptates esse asperiores voluptatem!</p>
+
+<<<<<<< HEAD
+    <h2>Atualização desta branch nova (feature2.0).</h2>
+=======
+    <h2>Atualização desta branch nova (feature2.0)</h2>
+>>>>>>> 465b219f6caa7e96c68f31574b75011df4c9548b
+    
+</body>
+</html>
